@@ -1,5 +1,5 @@
 import React, { Component, useEffect, useRef } from 'react';
-import backgroundVideo from "file:///C:/Users/Prathyusha%20D/Downloads/video.mp4";
+import backgroundVideo from "../../assets/video123.mp4";
 
 const Home = () => {
   return (

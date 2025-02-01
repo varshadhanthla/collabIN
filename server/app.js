@@ -15,7 +15,7 @@ const JWT_SECRET =
   "hvdvay6ert72839289()aiyg8t87qt72393293883uhefiuh78ttq3ifi78272jbkj?[]]pou89ywe";
 
 const mongoUrl =
-  "mongodb+srv://lci2022019:Varsha2004*@cluster0.3dyvypn.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://lci2022019:Varsha2004*@cluster1.opxt5pv.mongodb.net/";
 
 mongoose
   .connect(mongoUrl, {
