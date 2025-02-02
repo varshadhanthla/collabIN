@@ -49,7 +49,7 @@ const Home = () => {
       >
         Get Started
       </button> */}
-      <h3 id="get-started-text" style={{
+      {/* <h3 id="get-started-text" style={{
         color: "black",
         fontFamily: "Poppins",
         fontSize: "3rem",
@@ -59,7 +59,7 @@ const Home = () => {
         position: "relative",
       }}>
         This is the third heading
-      </h3>
+      </h3> */}
 
 
     </div>
